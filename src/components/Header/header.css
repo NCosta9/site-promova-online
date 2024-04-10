@@ -1,0 +1,20 @@
+.logo{
+    width: 2.5em;
+  }
+  .custom {
+    background-color: transparent !important;
+  }
+  #header{
+    background-color: transparent;
+    -webkit-filter: blur(15px);
+    -moz-filter: blur(15px);
+    -o-filter: blur(15px);
+    -ms-filter: blur(15px);
+    filter: blur(15px);
+  }
+
+ 
+.border-bottom-red{
+    border-bottom: 3px solid #c12437;
+    
+  }
